@@ -1,1 +1,1 @@
-# SemanaTec
+# Respositorio de SemanaTec
